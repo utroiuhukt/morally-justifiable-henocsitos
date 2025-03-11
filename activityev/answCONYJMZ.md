@@ -23,7 +23,7 @@
     
 4. **Pick one of the measures that he took to protect himself, did he violate any principle?**  
     Sam Bent used the principle of privacy to avoid being tracked, employing tools such as encryption and cryptocurrency 
-    transactions. However, this conflicted with the principles of justice and responsibility, as he used these measures tO
+    transactions. However, this conflicted with the principles of justice and responsibility, as he used these measures to
     facilitate drug sales and evade legal consequences. While privacy is a right, using it to commit crimes represents an
     ethical violation.{  
     
