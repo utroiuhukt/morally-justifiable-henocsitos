@@ -28,7 +28,7 @@ drug sales.
 
 ---
 
-**Juan Alberto Lòpez Pèrez  ID: 4860**
-**Cony Mabel Jimènez Jimènez  ID: 4963**
-**Diego Alejandro Lara Reyes  ID: 5047**
-**Roberto Rafael Acuña McFarland  ID: 5298**
+- **Juan Alberto Lòpez Pèrez  ID: 4860**
+- **Cony Mabel Jimènez Jimènez  ID: 4963**
+- **Diego Alejandro Lara Reyes  ID: 5047**
+- **Roberto Rafael Acuña McFarland  ID: 5298**
