@@ -25,3 +25,10 @@ their crimes.
 - This principle states that punishment or consequences should be proportional to the harm caused. If Bent significantly  
 reduced his sentence by cooperating, it could be seen as a disproportionate benefit compared to the damage he caused through 
 drug sales.
+
+---
+
+**Juan Alberto Lòpez Pèrez  ID: 4860**
+**Cony Mabel Jimènez Jimènez  ID: 4963**
+**Diego Alejandro Lara Reyes  ID: 5047**
+**Roberto Rafael Acuña McFarland  ID: 5298**
